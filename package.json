@@ -1,0 +1,24 @@
+{
+  "name": "websocket_echo_server",
+  "version": "1.0.0",
+  "description": "WS echo server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "url": "https://github.com/pranavkapoorr/websocket_echo_server.git"
+  },
+  "keywords": [
+    "ws",
+    "websocket",
+    "echowsserver",
+    "server"
+  ],
+  "author": "Pranav Kapoor",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "websocket": "1.0.26"
+  }
+}
